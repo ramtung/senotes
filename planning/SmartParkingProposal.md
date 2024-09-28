@@ -9,7 +9,7 @@ techsolutions@techville.com | (123) 456-7890
 ---
 
 #### **1. Executive Summary**  
-Tech Solutions, Inc. proposes an incremental approach to developing the **Smart Parking Management System (SPMS)** for the City of Techville. This upfront plan includes a fully detailed timeline and cost estimate for four feature increments, each delivering value to users while ensuring progress toward the final product. The total project cost is **$950,000**, with a delivery timeline of **12 months**.
+Tech Solutions, Inc. proposes an incremental approach to developing the **Smart Parking Management System (SPMS)** for the City of Techville. This plan includes a fully detailed timeline and cost estimate for four feature increments, each delivering value to users while ensuring progress toward the final product. The total project cost is **$950,000**, with a delivery timeline of **12 months**.
 
 ---
 
@@ -39,7 +39,7 @@ Our proposed SPMS will be developed in the following key increments, with each p
 
 ---
 
-#### **3. Incremental Project Schedule (Upfront Plan)**
+#### **3. Incremental Project Schedule**
 
 | **Phase**                             | **Deliverables**                                        | **Duration**  | **Completion Date** |
 |---------------------------------------|---------------------------------------------------------|---------------|---------------------|
@@ -52,7 +52,7 @@ Our proposed SPMS will be developed in the following key increments, with each p
 
 ---
 
-#### **4. Upfront Cost Estimate (Incremental Breakdown)**
+#### **4. Cost Estimate (Incremental Breakdown)**
 
 | **Increment/Phase**                   | **Cost**              |
 |---------------------------------------|-----------------------|
@@ -66,16 +66,21 @@ Our proposed SPMS will be developed in the following key increments, with each p
 
 ---
 
-#### **5. Upfront Risk Management Plan**
+#### **5. Risk Management Plan**
 
-Even with a detailed upfront plan, there are known risks that could affect the project’s schedule or cost. These risks include:
+We acknowledge that large-scale projects like SPMS face certain risks, and we have developed strategies to mitigate them:
 
-1. **Technology Integration Risks:** The integration of IoT sensors, Bluetooth beacons, and GPS systems may not go as smoothly as planned.
-2. **Payment System Compliance:** Future regulations could necessitate additional work to comply with financial security standards.
-3. **User Feedback Adjustments:** After the deployment of early increments, feedback may prompt changes in features or system behavior.
-4. **Scalability Issues:** Scaling the system for additional parking areas may be more complex than anticipated, impacting Increment 4.
+1. **Technology Integration Risk:**  
+   The integration of IoT sensors from multiple vendors poses a challenge. To mitigate this, we will conduct early compatibility tests during Phase 1 to identify any integration issues and resolve them before full-scale development begins.
 
-Despite these risks, we believe our incremental approach will allow the project to stay on track by addressing these challenges as we move through each phase.
+2. **Indoor Navigation Challenges:**  
+   GPS may not work well in certain environments, such as underground parking. To address this, we will deploy Bluetooth-based beacons for indoor navigation in parking garages.
+
+3. **Security Risks:**  
+   Payment systems must meet the highest security standards. We will use proven, secure payment gateways that comply with PCI-DSS regulations to protect user data and prevent fraud.
+
+4. **Scope Creep:**  
+   To prevent the project from expanding beyond initial expectations, we will set clear deliverables and milestones in the contract and regularly review the scope with city stakeholders to ensure alignment.
 
 ---
 
@@ -90,7 +95,7 @@ Tech Solutions, Inc. has a proven track record of delivering large-scale smart c
 
 #### **7. Conclusion**
 
-Tech Solutions, Inc. is committed to delivering the Smart Parking Management System through a carefully planned, upfront incremental approach. This strategy ensures each phase delivers key functionalities while maintaining flexibility to adapt to changing requirements.
+Tech Solutions, Inc. is committed to delivering the Smart Parking Management System through a carefully planned, incremental approach. This strategy ensures each phase delivers key functionalities while maintaining flexibility to adapt to changing requirements.
 
 We look forward to the opportunity to collaborate with the City of Techville on this important project. Please feel free to reach out to us at **techsolutions@techville.com** with any further questions or clarifications.
 
