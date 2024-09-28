@@ -9,7 +9,7 @@ techsolutions@techville.com | (123) 456-7890
 ---
 
 #### **1. Executive Summary**  
-Tech Solutions, Inc. proposes an incremental approach to developing the **Smart Parking Management System (SPMS)** for the City of Techville. This plan includes a fully detailed timeline and cost estimate for four feature increments, each delivering value to users while ensuring progress toward the final product. The total project cost is **$950,000**, with a delivery timeline of **12 months**.
+Tech Solutions, Inc. proposes an incremental approach to developing the **Smart Parking Management System (SPMS)** for the City of Techville. This plan includes a fully detailed timeline and cost estimate for three feature increments, each delivering value to users while ensuring progress toward the final product. The total project cost is **$950,000**, with a delivery timeline of **12 months**.
 
 ---
 
@@ -32,22 +32,17 @@ Our proposed SPMS will be developed in the following key increments, with each p
    - Predictive parking availability based on historical data.  
    - Integration of user-generated feedback for non-IoT parking lots.
 
-4. **Increment 4: Public Transit Integration & System Scaling (3 months)**  
-   - Integration with public transportation data to suggest parking near transit hubs.  
-   - System scalability for new parking areas (e.g., private lots or street parking).  
-   - Multi-language support.
-
 ---
 
 #### **3. Incremental Project Schedule**
 
 | **Phase**                             | **Deliverables**                                        | **Duration**  | **Completion Date** |
 |---------------------------------------|---------------------------------------------------------|---------------|---------------------|
-| **Phase 1: Initial Planning & Setup** | Stakeholder interviews, architecture setup, feature prioritization | 1 month | Nov 2024             |
-| **Increment 1: Core Parking Locator & Navigation** | Core parking locator and reservation system, GPS navigation | 3 months  | Feb 2025             |
-| **Increment 2: Payment Integration & Notifications** | Secure payments, indoor navigation, notifications       | 3 months  | May 2025             |
-| **Increment 3: User Experience Enhancements** | Predictive parking, advanced reservation system         | 2 months  | July 2025            |
-| **Increment 4: Public Transit Integration & Scaling** | Transit data integration, system scalability, multi-language support | 3 months  | Sept 2025            |
+| **Initial Planning & Setup** | Stakeholder interviews, architecture setup, feature prioritization | 1 month | Nov 2024             |
+| **Increment 1: Core Parking Locator & Navigation** | Core parking locator and reservation system, GPS navigation | 4 months  | March 2025             |
+| **Increment 2: Payment Integration & Notifications** | Secure payments, indoor navigation, notifications       | 3 months  | June 2025             |
+| **Increment 3: User Experience Enhancements** | Predictive parking, advanced reservation system         | 2 months  | August 2025            |
+| **Deployment** | Installation, beta testing, user training, and system handover | 2 months  | October 2025            |
 | **Ongoing Maintenance**               | Post-deployment support and updates                     | Ongoing       | Post-deployment      |
 
 ---
@@ -57,10 +52,10 @@ Our proposed SPMS will be developed in the following key increments, with each p
 | **Increment/Phase**                   | **Cost**              |
 |---------------------------------------|-----------------------|
 | **Phase 1: Initial Planning & Setup** | $50,000               |
-| **Increment 1: Core Parking Locator & Navigation** | $200,000        |
-| **Increment 2: Payment Integration & Notifications** | $250,000      |
+| **Increment 1: Core Parking Locator & Navigation** | $250,000        |
+| **Increment 2: Payment Integration & Notifications** | $200,000      |
 | **Increment 3: User Experience Enhancements** | $150,000         |
-| **Increment 4: Public Transit Integration & Scaling** | $150,000      |
+| **Deployment** | $150,000      |
 | **Contingency (10%)**                 | $100,000              |
 | **Total Project Cost**                | **$950,000**          |
 
