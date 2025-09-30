@@ -2,10 +2,10 @@
 
 ### **Request for Proposal (RFP)**
 **Project Title:** Smart Parking Management System  
-**RFP Number:** 2024-09-SPMS
+**RFP Number:** 2025-09-SPMS
 
-**Issue Date:** September 27, 2024  
-**Closing Date:** October 25, 2024  
+**Issue Date:** September 27, 2025  
+**Closing Date:** October 25, 2025  
 
 ---
 
@@ -55,7 +55,7 @@ Proposals will be evaluated on:
 ---
 
 #### **Deadlines and Submission Instructions**  
-All proposals must be submitted by **5:00 PM on October 25, 2024**. Submissions received after this deadline will not be considered.
+All proposals must be submitted by **5:00 PM on October 25, 2025**. Submissions received after this deadline will not be considered.
 
 ---
 

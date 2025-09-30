@@ -4,7 +4,7 @@
 Tech Solutions, Inc.  
 1234 Innovation Drive, Techville  
 techsolutions@techville.com | (123) 456-7890  
-**Submission Date:** October 24, 2024  
+**Submission Date:** October 24, 2025  
 
 ---
 
@@ -38,11 +38,11 @@ Our proposed SPMS will be developed in the following key increments, with each p
 
 | **Phase**                             | **Deliverables**                                        | **Duration**  | **Completion Date** |
 |---------------------------------------|---------------------------------------------------------|---------------|---------------------|
-| **Initial Planning & Setup** | Stakeholder interviews, architecture setup, feature prioritization | 1 month | Nov 2024             |
-| **Increment 1: Core Parking Locator & Navigation** | Core parking locator and reservation system, GPS navigation | 4 months  | March 2025             |
-| **Increment 2: Payment Integration & Notifications** | Secure payments, indoor navigation, notifications       | 3 months  | June 2025             |
-| **Increment 3: User Experience Enhancements** | Predictive parking, advanced reservation system         | 2 months  | August 2025            |
-| **Deployment** | Installation, beta testing, user training, and system handover | 2 months  | October 2025            |
+| **Initial Planning & Setup** | Stakeholder interviews, architecture setup, feature prioritization | 1 month | Nov 2025             |
+| **Increment 1: Core Parking Locator & Navigation** | Core parking locator and reservation system, GPS navigation | 4 months  | March 2026             |
+| **Increment 2: Payment Integration & Notifications** | Secure payments, indoor navigation, notifications       | 3 months  | June 2026             |
+| **Increment 3: User Experience Enhancements** | Predictive parking, advanced reservation system         | 2 months  | August 2026            |
+| **Deployment** | Installation, beta testing, user training, and system handover | 2 months  | October 2026            |
 | **Ongoing Maintenance**               | Post-deployment support and updates                     | Ongoing       | Post-deployment      |
 
 ---
